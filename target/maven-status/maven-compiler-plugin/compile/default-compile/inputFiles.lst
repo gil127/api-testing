@@ -1,0 +1,11 @@
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/exceptions/KalturaClientException.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/response/Country.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/request/User.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/response/Result.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/clients/KalturaClient.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/response/DynamicData.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/response/UserType.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/http/HttpHelper.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/request/RegisterRequest.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/App.java
+/Users/gild/Dev/home-assignment/src/main/java/com/kaltura/model/register/response/RegisterResponse.java
